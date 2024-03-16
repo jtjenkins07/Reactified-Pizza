@@ -2,7 +2,6 @@ import Order from "../order/Order";
 
 function Footer() {
   const hour = new Date().getHours();
-  console.log(hour);
   // const hour = 10;
   const openHour = 10;
   const closeHour = 22;
@@ -15,7 +14,7 @@ function Footer() {
         <Order closeHour={closeHour} openHour={openHour} />
       ) : (
         <p>
-          We're happy to welcome you between {openHour}:00AM and{" "}
+          We're closed, we welcome you to return between {openHour}:00AM and{" "}
           {closeHour - 12}
           :00PM.
         </p>
