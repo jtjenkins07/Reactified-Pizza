@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Reactified-Pizza/static/css/main.c2092e80.css",
-    "main.js": "/Reactified-Pizza/static/js/main.73891a4d.js",
+    "main.js": "/Reactified-Pizza/static/js/main.a5d56655.js",
     "index.html": "/Reactified-Pizza/index.html",
     "main.c2092e80.css.map": "/Reactified-Pizza/static/css/main.c2092e80.css.map",
-    "main.73891a4d.js.map": "/Reactified-Pizza/static/js/main.73891a4d.js.map"
+    "main.a5d56655.js.map": "/Reactified-Pizza/static/js/main.a5d56655.js.map"
   },
   "entrypoints": [
     "static/css/main.c2092e80.css",
-    "static/js/main.73891a4d.js"
+    "static/js/main.a5d56655.js"
   ]
 }
